@@ -1,0 +1,15 @@
+.filter_container{
+    display: flex;
+    justify-content: space-between; 
+    align-items: center;
+    position: relative;
+}
+.filter_accordion {
+    overflow: hidden !important; 
+    transition: height 0.2s !important;
+  }
+.collapse:not(.show) {
+    display: block;
+    
+}
+
