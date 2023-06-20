@@ -10,4 +10,25 @@ npm start - запуск клиента
 
 ## Схема базы данных
 
-Примеры использования и инструкции.
+![image](https://github.com/Angelina1Blokhina/coliver/assets/64483372/a415c5c0-6975-43a0-b086-14119ab2afa8)
+
+## Примеры работы приложения
+Блок фильтрации до выбора города
+
+![image](https://github.com/Angelina1Blokhina/coliver/assets/64483372/ae44d998-83b1-430a-9b9c-9b8ad582c5ad)
+
+Список станций метро при выборе города 
+
+![image](https://github.com/Angelina1Blokhina/coliver/assets/64483372/ddf11d20-fc61-4fd6-ae20-d38572fa6edb)
+
+Страница авторизации
+
+![image](https://github.com/Angelina1Blokhina/coliver/assets/64483372/d380f1bd-8809-41c4-ba18-1592e4e3bd5f)
+
+Страница личного кабинета
+
+![image](https://github.com/Angelina1Blokhina/coliver/assets/64483372/99e1edd8-75db-4e19-9ddf-8b5945d4bf7a)
+
+
+
+
