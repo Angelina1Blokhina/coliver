@@ -30,6 +30,7 @@ npm start - запуск клиента
 ![image](https://github.com/Angelina1Blokhina/coliver/assets/64483372/99e1edd8-75db-4e19-9ddf-8b5945d4bf7a)
 
 Форма для создания нового объявления
+
 ![image](https://github.com/Angelina1Blokhina/coliver/assets/64483372/daaf4e4f-eff0-4f7a-803d-2f323500ed07)
 ![image](https://github.com/Angelina1Blokhina/coliver/assets/64483372/831fd5be-419a-423f-a0e8-30caee718a27)
 
